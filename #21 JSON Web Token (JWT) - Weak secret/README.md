@@ -1,1 +1,0 @@
-Weak secret => brute force
