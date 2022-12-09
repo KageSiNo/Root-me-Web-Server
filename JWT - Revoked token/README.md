@@ -1,7 +1,12 @@
-https://jwt.io/</br>
-bypass blacklist</br>
-YOUR_TOKEN==</br>
-YOUR_TOKEN")</br>
+# JWT - Revoked token
+
+https://jwt.io/
+
+bypass blacklist
+
+YOUR_TOKEN==
+
+YOUR_TOKEN")
 ...
 
 ![img1](GET_admin.png)

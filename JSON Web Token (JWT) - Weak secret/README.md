@@ -1,3 +1,5 @@
+# JSON Web Token (JWT) - Weak secret
+
 Weak secret => brute force
 
 

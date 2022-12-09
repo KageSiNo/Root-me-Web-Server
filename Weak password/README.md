@@ -1,3 +1,5 @@
+# Weak password
+
 username: admin
 
 password: admin
